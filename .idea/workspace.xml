@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="fix: 修复了字母方块无掉落物的bug" />
+    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="fix: 修复了字母方块无掉落物的bug">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/blue_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/blue_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_blue_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_blue_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_purple_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_purple_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_red_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_red_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_yellow_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/dark_yellow_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/light_blue_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/light_blue_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/light_purple_grass_.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/light_purple_grass_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/orange_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/orange_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/pink_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/pink_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/purple_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/purple_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/snow_grass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/snow_grass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_01.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_01.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_03.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_03.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_05.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_05.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_07.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_07.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_09.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_09.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/special_grass_14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/windygrass.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/windygrass.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/withered_grass_land.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/withered_grass_land.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771909387662</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix: 修复了字母方块无掉落物的bug">
+      <option name="closed" value="true" />
+      <created>1771909667166</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771909667166</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
