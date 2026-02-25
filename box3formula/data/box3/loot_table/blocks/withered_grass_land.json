@@ -35,7 +35,7 @@
                   "condition": "minecraft:survives_explosion"
                 }
               ],
-              "name": "box3:dirt"
+              "name": "box3:blue_surface_01"
             }
           ]
         }
